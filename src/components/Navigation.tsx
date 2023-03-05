@@ -16,7 +16,6 @@ export const NavigationItems = [
     name: 'Notes',
     href: '/notes',
   },
-  /**
   {
     name: 'Creating',
     href: '/creating',
@@ -25,7 +24,6 @@ export const NavigationItems = [
     name: 'Uses',
     href: '/uses',
   },
-  */
   {
     name: 'About',
     href: '/about',
